@@ -11,10 +11,6 @@
 - Pairwise correlation and circle graphs for sectors.
 - Stock price forecasting using a model.
 
-
-## Second objectives
-- Perform a regional comparison using stocks traded in other exchanges.
-
 ## Feature engineering
 
 - ✅ New columns for GICS sectors & industries, and company names.
