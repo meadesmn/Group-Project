@@ -14,4 +14,3 @@
 ## Feature engineering
 
 - ✅ New columns for GICS sectors & industries, and company names.
-- 
