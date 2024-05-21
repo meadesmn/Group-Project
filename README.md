@@ -7,9 +7,10 @@
 
 ## Main objectives
 
-- Use the efficient frontier to build a portfolio with two or more stocks and show it in a graph/widget.
-- Sectors' correlations.
+- ✅ Use the efficient frontier to build a portfolio with two or more stocks and show it in a graph/widget.
 - Pairwise correlation and circle graphs for sectors.
+- Sectors' correlations.
+- Stock price forecasting using a model.
 - Stock price correlations.
 
 ## Second objectives
@@ -17,5 +18,5 @@
 
 ## Feature engineering
 
-- New columns for GICS sectors & industries, and company names.
+- ✅ New columns for GICS sectors & industries, and company names.
 - 
